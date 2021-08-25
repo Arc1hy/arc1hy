@@ -1,16 +1,19 @@
 ### Hi there 👋
+### 👋 Hi, im Alexander Schuster, aka AstroAleexander. 👋
 
-<!--
-**Arc1hy/arc1hy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🎓 I'm a student and im learning to develop!
+- ❓ I'm currently learning c++ and swift
+- ❔ I know a little bit of python 
+- 🍣 My favourite food is sushi
+- 🥅 My goal for this year is to finish a project and to learn fully c++ and swift if possible (2021)
 
-Here are some ideas to get you started:
+### 📎 You can connnect with me here:
+- My discord server is currently private but you can maybe get in somehow.
+- AstroAleexander#0001 is my discord tag. <
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<img src="https://komarev.com/ghpvc/?username=bitcoin#0001&label=Profile%20views&color=0e75b6&style=flat" alt="Aleexander" /> </p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arc1hy&layout=compact" alt="Aleexander" /></p>
